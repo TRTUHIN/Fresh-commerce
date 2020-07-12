@@ -26,3 +26,9 @@ button{
     color: white;
     margin-top: 5px;
 }
+.carousel-indicators .active{
+   background-color: orange;
+}
+.carousel-indicators li{
+    background-color: palegoldenrod;
+}
