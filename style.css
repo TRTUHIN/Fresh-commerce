@@ -3,9 +3,10 @@ body{
 }
 .container{
     margin-bottom: 20px;
+    width: 100%;
 }
 ul li{
-    margin-right: 20px;
+    margin-right: 10px;
     padding: 0 10px;
     text-align: center;
     font-weight: bold;
@@ -17,18 +18,49 @@ ul li{
 }
 .citem{
     margin-bottom: 20px;
+    font-weight: bold;
 }
 button{
     width: 130px;
     height: 45px;
    background-color: #000000;
-    border-radius: 3px;
+    border-radius: 8px;
     color: white;
     margin-top: 5px;
+    font-weight: bold;
+    border: none;
+}
+.cimage{
+    width: 450px;
+    height: 400px;
+    float: right;
+    margin-bottom: 30px;
 }
 .carousel-indicators .active{
    background-color: orange;
+   
 }
 .carousel-indicators li{
     background-color: palegoldenrod;
+    
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    color: orange;
+}
+.text-center{
+  
+    padding-bottom: 10px;
+}
+.card-title{
+    text-align: center;
+    font-weight: bold;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: lightgrey 5px 5px 10px;
+    margin-top: 15px;
 }
