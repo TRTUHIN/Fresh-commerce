@@ -2,8 +2,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    margin-bottom: 20px;
-    width: 100%;
+    margin-bottom: 50px;
+    
 }
 ul li{
     margin-right: 10px;
@@ -52,7 +52,7 @@ h3{
 }
 .text-center{
   
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 .card-title{
     text-align: center;
@@ -63,4 +63,12 @@ h3{
     border-radius: 10px;
     box-shadow: lightgrey 5px 5px 10px;
     margin-top: 15px;
+    
+}
+#smartphone{
+    margin-bottom: 90px;
+
+}
+p{
+    text-align: justify;
 }
