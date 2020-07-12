@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 20px;
+}
+ul li{
+    margin-right: 20px;
+    padding: 0 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.carousel-item {
+    padding: 0 20px;
+}
+.citem{
+    margin-bottom: 20px;
+}
+button{
+    width: 130px;
+    height: 45px;
+   background-color: #000000;
+    border-radius: 3px;
+    color: white;
+    margin-top: 5px;
+}
