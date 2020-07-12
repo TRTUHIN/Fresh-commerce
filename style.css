@@ -65,10 +65,72 @@ h3{
     margin-top: 15px;
     
 }
-#smartphone{
-    margin-bottom: 90px;
+#Laptop{
+    margin: 90px;
 
 }
 p{
     text-align: justify;
 }
+#Categories{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+    
+}
+.subCategories{
+    margin-top: 35px;
+}
+hr{
+    
+    width: 135.5px;
+    border-radius: 8px;
+    height: 9.73px;
+    background-image: linear-gradient(to right, rgba(255, 156, 053, 100%),rgba(255, 178, 041, 100%), rgba(255, 203, 28,100%));
+}
+ #Ccardimg{ 
+    width: 125px;
+    height: 125.69px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+
+    
+}
+.CCard{
+    width: 250px;
+    height: 300px;
+
+    
+ 
+}
+#CCard3{
+    margin-top: 30px;
+}
+
+
+.bgshoe{
+padding: 20px;
+margin-left: 220px;
+   
+}
+.bg1{
+    margin-top: 220px;
+    padding:0px;
+    
+   
+
+    
+
+}
+.card-text{
+    font-weight: bold;
+    text-align: center;
+}
+.paleorder{
+   margin-left: 150px;
+   
+    padding: 80px;
+}
+
