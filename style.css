@@ -33,11 +33,23 @@ button{
     border: none;
 }
 .cimage{
-    width: 450px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
     float: right;
-    padding: 30px;
+    padding: 0px 0px 50px 80px;
+
     
+
+    
+}
+.bprodct{
+margin-right: 0px;
+float: right;
+padding: 0px 50px 50px 50px;
+
+
+
+
 }
 .carousel-indicators .active{
    background-color: orange;
