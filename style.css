@@ -3,7 +3,7 @@ body{
     background-color:  rgba(245, 245, 245, 0.876);
 }
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     background-color: rgba(248, 248, 255, 0.431); 
     
 }
@@ -59,6 +59,24 @@ padding: 0px 50px 50px 50px;
     background-color: palegoldenrod;
     
 }
+#slidere{
+    margin-bottom: 70px;
+}
+#smartphone{
+    margin-bottom: 70px;
+}
+
+#bgimg{
+    width: 100px;
+    height: 350px;
+   
+    position: absolute;
+    left: 0px;
+   
+   top: 600px;
+    z-index: -1;
+}
+
 h2{
     font-weight: bold;
 }
